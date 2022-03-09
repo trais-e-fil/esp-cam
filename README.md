@@ -21,3 +21,6 @@ https://gist.github.com/youjunjer/fda856c586c90b0655a100fb7681875d
 ## robi zdjecia co 5 sek
 
 https://lemariva.com/blog/rss/micropython-timelapse-video-using-esp32-cam
+
+
+https://how2electronics.com/esp32-cam-based-object-detection-identification-with-opencv/

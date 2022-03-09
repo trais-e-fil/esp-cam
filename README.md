@@ -17,3 +17,7 @@ https://www.youtube.com/watch?v=HXDD7-EnGBY
 https://gist.github.com/youjunjer/fda856c586c90b0655a100fb7681875d
 
 ## 1. what i need
+
+## robi zdjecia co 5 sek
+
+https://lemariva.com/blog/rss/micropython-timelapse-video-using-esp32-cam

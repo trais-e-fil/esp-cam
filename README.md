@@ -1,6 +1,12 @@
 # esp-cam
 YOLO algorythm
 
+## zaczynam od tego
+
+https://www.youtube.com/watch?v=peTnIN9iicQ
+
+
+
 
 ## theory - sources
 

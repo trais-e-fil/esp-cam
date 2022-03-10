@@ -1,4 +1,4 @@
-# esp-cam
+# esp-cam --- przepis z programowania -- motywacja i projekt by zaoszczedzic czas #czas
 YOLO algorythm
 
 ## zaczynam od tego

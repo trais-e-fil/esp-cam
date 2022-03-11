@@ -24,6 +24,8 @@ https://randomnerdtutorials.com/telegram-esp32-cam-photo-arduino/
 
 https://eloquentarduino.github.io/2021/01/esp32-cam-motion-detection-with-photo-capture-rgb-version/
 
+## i to wszystko bd robic w vscode in platformIO by sobie pocwiczyc pisanie kodu z linux'a
+
 
 ---
 

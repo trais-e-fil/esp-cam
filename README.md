@@ -2,7 +2,7 @@
 
 
 
-## zalozenia projektu:
+## zalozenia projektu: 11.03.2022
 
 esp32 cam robi zdjecie i po zdjeciu nagrywa krotkie video (10sek) i wysyla mi to telegram(dzieki temu nie musze byc polaczony na tej samej sieci co kamera plus nie musze sprawdzac powiadomien bo same beda sie wyswitlac w appce i nie musze tego przchowywac bezpiecznie wystarczy ze podniose sobie poziom SZYFROWANIA  na telegramie wiadomosci).
 

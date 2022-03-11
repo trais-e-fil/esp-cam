@@ -1,4 +1,4 @@
-# esp-cam --- przepis z programowania -- motywacja i projekt by zaoszczedzic czas #czas
+# esp-cam --- przepis z programowania -- motywacja i projekt by zaoszczedzic czas + robie sobie portfolio do projektow na ewenetualna przyszla prace
 
 
 

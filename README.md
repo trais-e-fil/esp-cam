@@ -27,6 +27,9 @@ https://eloquentarduino.github.io/2021/01/esp32-cam-motion-detection-with-photo-
 ## i to wszystko bd robic w vscode in platformIO by sobie pocwiczyc pisanie kodu z linux'a
 
 
+## zaczynam testing od RGB bo wyglada na latwiejsze bo dobrze opisane
+
+
 ---
 
 ## tutoriale pomocnicze do koncepcji #backup

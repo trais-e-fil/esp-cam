@@ -23,17 +23,13 @@ https://www.youtube.com/watch?v=v36c7-s3jvA
 https://eloquentarduino.github.io/2021/01/esp32-cam-motion-detection-with-photo-capture-rgb-version/
 
 
+---
 
-
+## tutoriale pomocnicze do koncepcji #backup
 
 YOLO algorythm
 
-## zaczynam od tego
-
 https://www.youtube.com/watch?v=peTnIN9iicQ
-
-
-
 
 ## theory - sources
 
@@ -57,3 +53,5 @@ https://lemariva.com/blog/rss/micropython-timelapse-video-using-esp32-cam
 
 
 https://how2electronics.com/esp32-cam-based-object-detection-identification-with-opencv/
+
+---

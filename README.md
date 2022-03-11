@@ -18,6 +18,8 @@ na telegramie ustaw sobie komende by wylaczyc kamere np: /stop -- w wiadomosci n
 
 https://www.youtube.com/watch?v=v36c7-s3jvA
 
+https://randomnerdtutorials.com/telegram-esp32-cam-photo-arduino/
+
 **zdjecie na zmiane RGB**
 
 https://eloquentarduino.github.io/2021/01/esp32-cam-motion-detection-with-photo-capture-rgb-version/

@@ -29,6 +29,10 @@ https://eloquentarduino.github.io/2021/01/esp32-cam-motion-detection-with-photo-
 
 ## tutoriale pomocnicze do koncepcji #backup
 
+
+https://www.youtube.com/watch?v=0s4Bm9Ar42U
+
+
 YOLO algorythm
 
 https://www.youtube.com/watch?v=peTnIN9iicQ
